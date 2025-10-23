@@ -57,6 +57,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AISuperSmart](https://www.aisupersmart.com/ai-tools-directory/) - 1500+ Ai Tools Which Update's Daily And Provide Ai News to World
 - [AI-Tools Directory](https://ai-tools.directory) - A directory of AI tools curated by AI itself
 - [AI Tools Guru](https://aitoolguru.com/) - THE LARGEST AI TOOLS DIRECTORY
+- [AI Tools Hub](https://richlyai.com/ai-tools/) - AI Tools Directory
 - [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated
 - [AI Tools Marketer](https://aitoolsmarketer.com/) - Unlock the Power of AI: Discover, Learn, Compare, and Optimize with the Ultimate AI Tools Directory.
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools
